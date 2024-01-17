@@ -1,0 +1,19 @@
+/* Empdetails.css */
+.empdetails-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .empdetails-table th, .empdetails-table td {
+    border: 2px solid #ddd;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .empdetails-table th {
+    background-color: #f2f2f2;
+  }
+  .emp-label {
+    display: block;
+    margin-bottom: 10px;
+  }

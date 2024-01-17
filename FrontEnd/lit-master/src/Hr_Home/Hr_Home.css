@@ -1,0 +1,18 @@
+.home{
+    /* background-color: blue; */
+    /* font-size: 2vw; */
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+.home_screen{
+    margin: 3vw;
+}
+.Home_partition{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(238, 238, 248);
+    height: 88vh;
+    width: 100vw;
+}
